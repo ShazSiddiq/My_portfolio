@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
       <h4>Developed by Shahbaz Ahmad</h4>
-      <h4>Copyright &copy; 2023 SZ</h4>
+      <h4>Copyright &copy; 2025 SZ</h4>
       <div className='footerLinks'>
         <a href="https://github.com/ShazSiddiq" target='_blank'><FaGithub/></a>
         <a href="https://www.linkedin.com/in/shahbaz-ahmad-siddique-5a8357293/" target='_blank'><FaLinkedin/></a>
