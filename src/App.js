@@ -10,8 +10,6 @@ import MoveToTop from "./Components/MoveToTop";
 import Lottie from  "lottie-react";
 import nightsky from "./LottieFiles/night-sky.json";
 import HashLoader from "react-spinners/HashLoader";
-
-
 function App() {
   const[Loading,SetLoading]=useState(true);
 
